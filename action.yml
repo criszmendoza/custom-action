@@ -1,5 +1,5 @@
-name: "Custom action"
-description: "Show $GITHUB_EVENT_PATH"
+name: 'Custom action'
+description: 'Show $GITHUB_EVENT_PATH'
 runs:
   using: 'docker'
-  image: 'Dockerfile
+  image: 'Dockerfile'
